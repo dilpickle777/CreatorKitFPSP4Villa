@@ -120,11 +120,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColour: {r: 0.3664931, g: 0.8113207, b: 0.11863647, a: 1}
+    - _BaseColour: {r: 1, g: 0, b: 0.95380974, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 0.4583063, g: 1, b: 0, a: 1}
     - _Color2: {r: 0.52145356, g: 0.8584906, b: 0, a: 1}
-    - _DepthColour: {r: 0.4876657, g: 0.9622641, b: 0.040850803, a: 1}
+    - _DepthColour: {r: 1, g: 0, b: 0.932662, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NormalTextureTiling: {r: 3, g: 3, b: 0, a: 0}
     - _TextureTiling: {r: 4, g: 4, b: 0, a: 0}
